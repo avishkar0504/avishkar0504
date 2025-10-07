@@ -2,7 +2,8 @@
 
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/WpVjWqL.png" width="100%" alt="Banner - Avi Suryawanshi"/>
+   <img src="https://github.com/AvishkarSuryawanshi/AvishkarSuryawanshi/blob/main/A_professional_digital_graphic_banner_showcases_Av.png" 
+       alt="Avishkar Suryawanshi Banner" width="100%" />
 </p>
 
 <!-- Typing Animation -->
